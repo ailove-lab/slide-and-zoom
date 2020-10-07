@@ -8,6 +8,9 @@ MWP простейшей анимации изображения по траек
 
 [Пример видео](https://github.com/ailove-lab/slide-and-zoom/blob/main/output.mp4?raw=true)
 
+Файлы
+-----
+
 - main.py - генератор анимационного raw потокa
 - interpolation_test.py - визуализация траектории
 - bezier.py - интерполятор точек
