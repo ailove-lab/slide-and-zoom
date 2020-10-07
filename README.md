@@ -6,7 +6,7 @@ MWP простейшей анимации изображения по траек
 
 ![](trajectory.png)
 
-![](output.mp4)
+[Пример видео](https://github.com/ailove-lab/slide-and-zoom/blob/main/output.mp4?raw=true)
 
 - main.py - генератор анимационного raw потокa
 - interpolation_test.py - визуализация траектории
